@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42347ed8cfcd2683d5ed",
-    "url": "/LightsOut/static/css/main.478a5e22.chunk.css"
+    "revision": "ebeecfa0d94e7b4a4983",
+    "url": "/LightsOut/static/css/main.a0f91d82.chunk.css"
   },
   {
-    "revision": "42347ed8cfcd2683d5ed",
-    "url": "/LightsOut/static/js/main.42347ed8.chunk.js"
+    "revision": "ebeecfa0d94e7b4a4983",
+    "url": "/LightsOut/static/js/main.ebeecfa0.chunk.js"
   },
   {
     "revision": "45ea534042495dbb2393",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/LightsOut/static/js/runtime~main.135e1143.js"
   },
   {
-    "revision": "7775c2a2d7a733d52a458ce945dc85c0",
+    "revision": "4999ce05953c99958f65e586d199cdfe",
     "url": "/LightsOut/index.html"
   }
 ];
